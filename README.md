@@ -1,4 +1,4 @@
-# Innovedus-AI-Playground
+# Edge-AI-Playground
 
 ## prerequisites
 - install python 3.12
